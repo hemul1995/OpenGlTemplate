@@ -5,7 +5,7 @@
  */
 package opengltemplate;
 
-import com.jogamp.opengl.GL;//////////////////////////////////////////
+import com.jogamp.opengl.GL;//////////////////////////////////////dfgfdgfdgfdg///
 import com.jogamp.opengl.GL2;
 import com.jogamp.opengl.GLAutoDrawable;
 import com.jogamp.opengl.GLEventListener;
